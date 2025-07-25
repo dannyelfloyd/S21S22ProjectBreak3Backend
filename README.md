@@ -29,3 +29,13 @@ Hemos tenido en cuenta las instrucciones que se nos han dado para este proyecto 
 
 *A continuación se mostrara información sobre el **Backend**. Si quieres conocer más sobre el [**Frontend**](https://github.com/dannyelfloyd/S21S22ProjectBreak3Frontend), haz click para ser redireccionado al repositorio correspondiente.*
 ## Backend
+
+Primeros pasos (NOTA: organizar y poner mas bonito, más adelante ;))
+1) npm init -y --> package.js file
+2) instal express
+2.1) npm install express@4.18.2 --> node_modules + package-lock.json
+3) server.js
+3.2) npm run server.js / npm run dev / node server.js
+4) Rest API
+4.1) GET, POST, PUT, DELETE
+5) npm install nodemon -D
