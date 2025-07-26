@@ -39,3 +39,6 @@ Primeros pasos (NOTA: organizar y poner mas bonito, más adelante ;))
 4) Rest API
 4.1) GET, POST, PUT, DELETE
 5) npm install nodemon -D
+6) MoondoDB 
+6.2)terminal: npm install mongoose@latest
+6.3) terminal: npm i dotenv
