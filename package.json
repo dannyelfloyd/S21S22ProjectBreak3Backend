@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/dannyelfloyd/S21S22ProjectBreak3Backend#readme",
   "dependencies": {
+    "@upstash/ratelimit": "^2.0.5",
+    "@upstash/redis": "^1.34.9",
     "dotenv": "^17.2.1",
     "express": "^4.18.2",
     "mongoose": "^8.16.5"
